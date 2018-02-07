@@ -1,3 +1,1 @@
-http://blog.guojielun.com/2018/02/07/第十二篇文章/
-http://blog.guojielun.com/2018/02/07/第十一篇文章/
-http://blog.guojielun.com/2018/02/07/第十篇文章/
+http://blog.guojielun.com/2018/02/07/WEEX环境配置/
