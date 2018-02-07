@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.guojielun.com/repository/index.html</loc>
+    <loc>http://blog.guojielun.com/about/index.html</loc>
+    
+    <lastmod>2018-02-07T08:51:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.guojielun.com/categories/index.html</loc>
     
     <lastmod>2018-02-07T06:30:19.000Z</lastmod>
     
@@ -16,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://blog.guojielun.com/categories/index.html</loc>
+    <loc>http://blog.guojielun.com/repository/index.html</loc>
     
     <lastmod>2018-02-07T06:30:19.000Z</lastmod>
     
@@ -33,13 +40,6 @@
     <loc>http://blog.guojielun.com/2018/02/07/WEEX%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
     
     <lastmod>2018-02-07T03:46:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.guojielun.com/about/index.html</loc>
-    
-    <lastmod>2018-02-07T02:33:07.000Z</lastmod>
     
   </url>
   
