@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://blog.guojielun.com/tags/index.html</loc>
-    
-    <lastmod>2018-02-07T06:30:19.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.guojielun.com/books/index.html</loc>
     
     <lastmod>2018-02-07T06:30:19.000Z</lastmod>
@@ -38,6 +31,13 @@
   
   <url>
     <loc>http://blog.guojielun.com/categories/index.html</loc>
+    
+    <lastmod>2018-02-07T06:30:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.guojielun.com/tags/index.html</loc>
     
     <lastmod>2018-02-07T06:30:19.000Z</lastmod>
     
